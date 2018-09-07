@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DevelopTask</string>
+    <string name="tap_to_reload">tap_to_Reload</string>
+    <string name="error_msg_unknown">An unexpected error occurred</string>
+</resources>
